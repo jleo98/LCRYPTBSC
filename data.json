@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Airdrop Contract",
+      "value": "0xa7edc0db90bde840da57579987a2949bc32ffed5"
+    },
+    {
+      "id": 2,
+      "name": "Airdrop Fee in Wei",
+      "value": "2000000000000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "LCRYPT Airdrop"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "We are distributing the LCRYPT airdrop to the entire community. You can claim 10,000 LCRYPT tokens. The total amount of airdrop provided is 1 billion LCRYPT."
+    },
+    {
+      "id": 5,
+      "name": "Token Contract",
+      "value": "0xb058DbdfC2E373Dae153528De66849E52c3C4858"
+    },
+    {
+      "id": 6,
+      "name": "Token Symbol",
+      "value": "LCRYPT"
+    },
+    {
+      "id": 7,
+      "name": "Airdrop Amount",
+      "value": "10000"
+    },
+    {
+      "id": 8,
+      "name": "Airdrop Type: single or multi",
+      "value": "multi"
+    },
+    {
+      "id": 9,
+      "name": "Owner Wallet",
+      "value": "0x29449b33FD448d03CD105f093c4b521d42b0a3c3"
+    },
+    {
+      "id": 10,
+      "name": "Chain Name",
+      "value": "Binance Smart Chain"
+    },
+    {
+      "id": 11,
+      "name": "Chain ID",
+      "value": "56"
+    }
+]
